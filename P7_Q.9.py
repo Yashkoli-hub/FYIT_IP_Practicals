@@ -1,0 +1,10 @@
+matrix = [
+    [1, 2],
+    [3, 4]
+    ]
+
+print(matrix[0] [1])
+
+matrix[1] [0] = 10
+
+print(matrix)
